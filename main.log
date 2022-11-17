@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  17 NOV 2022 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.15)  17 NOV 2022 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -704,13 +704,13 @@ Non-PDF special ignored!
 Here is how much of TeX's memory you used:
  28756 strings out of 475385
  739368 string characters out of 2776906
- 1417148 words of memory out of 3000000
+ 1420148 words of memory out of 3000000
  49646 multiletter control sequences out of 15000+600000
  476972 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,103p,751b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/52554/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/52554/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/52554/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (1 page, 39351 bytes).
+Output written on main.pdf (1 page, 39759 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
